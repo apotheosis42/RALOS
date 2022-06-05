@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -36,7 +36,7 @@ namespace ralos
             }
             Console.ReadKey();
         }
-        static void afterlogin()
+        static void afterlogin() // girişten sonraki herşey
         {
 
             System.Threading.Thread.Sleep(2000);
